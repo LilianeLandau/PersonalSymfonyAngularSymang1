@@ -1,2 +1,2 @@
-personal project Symfony / Angular
-a pdf guide is available in directory a_doc_pdf
+Personal project Symfony / Angular
+A pdf guide is available in directory a_doc_pdf
